@@ -9,3 +9,8 @@ body {
 h1 {
     color: darkblue;
 }
+
+h1 {
+    border-bottom: 3px solid darkblue;
+    padding-bottom: 10px;
+}
